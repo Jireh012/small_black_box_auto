@@ -17,11 +17,11 @@
 package org.jireh.smail.black.box.auto.common.constant;
 
 /**
- * 通用常量
+ * 小黑盒常量
  *
  * @author Jireh
  */
-public interface CommonConstant {
+public interface SmallBlackBoxConstant {
 
 	/**
 	 * 小黑盒API地址
