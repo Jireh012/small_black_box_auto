@@ -7,7 +7,7 @@ import java.security.MessageDigest;
  *
  * @author Jireh
  */
-public class MD5 {
+public class MD5Util {
 
 	public static String md5(String str) {
 		try {
